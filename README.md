@@ -31,7 +31,7 @@ SecureDocsManager is a web application for managing and securely storing your do
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SecureDocsManager.git
+   git clone https://github.com/dev-akhilesh/SecureDocsManager.git
    cd SecureDocsManager
    ```
 
