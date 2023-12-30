@@ -73,4 +73,8 @@ SecureDocsManager is a web application for managing and securely storing your do
    npm run dev
    ```
 
-
+### Usage
+1. Register a new user or login if you already have an account.
+2. Upload files using the "File Upload" page.
+3. View and manage your files on the "File List" page.
+4. Download or delete files as needed.
