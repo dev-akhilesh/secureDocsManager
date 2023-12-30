@@ -50,15 +50,15 @@ SecureDocsManager is a web application for managing and securely storing your do
 5. Start the server:
 
    ```bash
-   cd ../backend
-   npm server
+   cd ../server
+   npm run server
    ```
 
 6. Start the client:
 
    ```bash
-   cd ../frontend
-   npm start
+   cd ../client
+   npm run dev
    ```
 
 
