@@ -24,5 +24,14 @@ SecureDocsManager is a web application for managing and securely storing your do
    ```bash
    git clone https://github.com/your-username/SecureDocsManager.git
 
+2. Install dependencies for both frontend and backend:
+   ```bash 
+   cd SecureDocsManager/client
+   npm install
+   
+   cd ../server
+   npm install
+
+
 Front End - https://securedocsmanager.netlify.app/
 Back End - https://securedocsmanagerbe.onrender.com/
