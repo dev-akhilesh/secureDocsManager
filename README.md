@@ -33,5 +33,10 @@ SecureDocsManager is a web application for managing and securely storing your do
    npm install
 
 
-Front End - https://securedocsmanager.netlify.app/
-Back End - https://securedocsmanagerbe.onrender.com/
+## Deployment
+
+- **Frontend**: The frontend of this Spotify clone is deployed on Vercel. You can access it using the following link: [Spotify Clone Frontend](https://securedocsmanager.netlify.app/).
+
+- **Backend**: The backend of this Spotify clone is deployed on Render. You can access it using the following link: [Spotify Clone Backend](https://securedocsmanagerbe.onrender.com/).
+
+
