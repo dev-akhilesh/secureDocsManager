@@ -17,27 +17,37 @@ SecureDocsManager is a web application for managing and securely storing your do
 - **Cloud Storage:** Cloudinary
 - **Authentication:** JSON Web Tokens (JWT)
 
-## Setup Instructions
+### Setup Instructions
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/SecureDocsManager.git
+   cd SecureDocsManager
+   ```
 
-2. Install dependencies for both frontend and backend:
-   ```bash 
-   cd SecureDocsManager/client
-   npm install
+2. Install server dependencies:
 
-   ```bash 
-   cd ../server
+   ```bash
+   cd server
    npm install
+   ```
+
+3. Install client dependencies:
+
+   ```bash
+   cd client
+   npm install
+   ```
+
+
+
 
 
 ## Deployment
 
-- **Frontend**: The frontend of this Spotify clone is deployed on Vercel. You can access it using the following link: [Spotify Clone Frontend](https://securedocsmanager.netlify.app/).
+- **Frontend**: The frontend of this Spotify clone is deployed on Vercel. You can access it using the following link: [Frontend](https://securedocsmanager.netlify.app/).
 
-- **Backend**: The backend of this Spotify clone is deployed on Render. You can access it using the following link: [Spotify Clone Backend](https://securedocsmanagerbe.onrender.com/).
+- **Backend**: The backend of this Spotify clone is deployed on Render. You can access it using the following link: [Backend](https://securedocsmanagerbe.onrender.com/).
 
 
