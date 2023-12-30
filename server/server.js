@@ -26,7 +26,7 @@ const fileRoutes = require('./routes/fileRoutes');
 app.use('/api/auth', authRoutes);
 app.use('/api/files', fileRoutes);
 app.get('/', (req, res) => {
-    res.send("Hello, world!");
+    res.send("Backend working...");
 })
 
 // Start server
