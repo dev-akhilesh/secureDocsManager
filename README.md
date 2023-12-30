@@ -40,8 +40,26 @@ SecureDocsManager is a web application for managing and securely storing your do
    npm install
    ```
 
+4. Create a `.env` file in the backend directory and set the following environment variables:
 
+   ```env
+   MONGO_PASSWORD=your-mongodb-connection-string
+   SECRET_KEY_PASSPORT=your-secret-key
+   ```
 
+5. Start the server:
+
+   ```bash
+   cd ../backend
+   npm server
+   ```
+
+6. Start the client:
+
+   ```bash
+   cd ../frontend
+   npm start
+   ```
 
 
 ## Deployment
