@@ -28,7 +28,8 @@ SecureDocsManager is a web application for managing and securely storing your do
    ```bash 
    cd SecureDocsManager/client
    npm install
-   
+
+   ```bash 
    cd ../server
    npm install
 
