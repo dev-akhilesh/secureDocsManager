@@ -2,6 +2,15 @@
 
 SecureDocsManager is a web application for managing and securely storing your documents. It provides functionalities such as file upload, download, and deletion with user authentication.
 
+
+## Deployment
+
+- **Frontend**: The frontend of this Spotify clone is deployed on Vercel. You can access it using the following link: [Frontend](https://securedocsmanager.netlify.app/).
+
+- **Backend**: The backend of this Spotify clone is deployed on Render. You can access it using the following link: [Backend](https://securedocsmanagerbe.onrender.com/).
+
+
+
 ## Features
 
 - **File Upload:** Easily upload your documents securely.
@@ -63,12 +72,5 @@ SecureDocsManager is a web application for managing and securely storing your do
    cd ../client
    npm run dev
    ```
-
-
-## Deployment
-
-- **Frontend**: The frontend of this Spotify clone is deployed on Vercel. You can access it using the following link: [Frontend](https://securedocsmanager.netlify.app/).
-
-- **Backend**: The backend of this Spotify clone is deployed on Render. You can access it using the following link: [Backend](https://securedocsmanagerbe.onrender.com/).
 
 
